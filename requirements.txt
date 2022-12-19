@@ -2,8 +2,10 @@ pandas
 numpy
 scipy
 xgboost
-sklearn
-math
+scikit-learn
+python-math
 catboost
 lightgbm
-gc
+gc-python-utils
+dvc
+dvc-gdrive
